@@ -1,5 +1,5 @@
 # Vücut Kitle İndeksi Hesaplama 
-Patika.dev > Java101 > Ödev1 - Vücut Kitle İndeksi Hesaplama
+Patika.dev > Java101 > Temel Kavramlar ve Değişkenler > Ödev1 - Vücut Kitle İndeksi Hesaplama
  
 ## Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
 ### Formül
