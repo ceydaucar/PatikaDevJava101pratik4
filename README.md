@@ -1,12 +1,12 @@
 # Vücut Kitle İndeksi Hesaplama 
-Java101 > Pratik5 - Vücut Kitle İndeksi Hesaplama
+Patika.dev > Java101 > Ödev1 - Vücut Kitle İndeksi Hesaplama
  
 ## Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
 ### Formül
 Kilo (kg) / Boy(m) * Boy(m)
  
 		import java.util.*;
-		public class pratik4 {
+		public class odev1 {
 
 			public static void main(String[] args) {
 				// Yeni bir tarayıcı(scanner) oluştur.
